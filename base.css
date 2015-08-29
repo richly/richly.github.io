@@ -1,0 +1,15 @@
+h1.title{
+	font-family:'Microsoft Yahei' !important;
+	font-style:bold;
+	text-align:center;
+}
+h3.subtitle{
+	font-family:'Microsoft Yahei' !important;
+	text-align:center;
+	color:#999999;
+}
+h5.signature{
+	font-family:'Microsoft Yahei' !important;
+	text-align:right;color:#999999;
+	margin-right:20%;
+}
