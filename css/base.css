@@ -1,3 +1,9 @@
+body{
+	background-color: rgb(244,244,244);
+}
+a.gray{
+	color: gray;
+}
 h1.title{
 	font-family:'Microsoft Yahei' !important;
 	font-style:bold;
@@ -10,6 +16,7 @@ h3.subtitle{
 }
 h5.signature{
 	font-family:'Microsoft Yahei' !important;
-	text-align:right;color:#999999;
+	text-align:right;
+	color:#999999;
 	margin-right:20%;
 }
