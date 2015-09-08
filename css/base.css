@@ -1,11 +1,13 @@
 body{
 	background-color: rgb(244,244,244);
 }
+li,p,a,h1,h2,h3,h4,h5,h6{
+	font-family:'Microsoft Yahei' !important;
+}
 a.gray{
 	color: gray;
 }
 h1.title{
-	font-family:'Microsoft Yahei' !important;
 	font-style:bold;
 	text-align:center;
 }
