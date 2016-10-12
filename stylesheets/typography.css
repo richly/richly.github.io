@@ -1,0 +1,7 @@
+ul.list-unstyled>li>a{
+	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+section#wrapper{
+	text-align: left;
+}

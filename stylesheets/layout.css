@@ -1,0 +1,38 @@
+header{
+	margin:200px auto 0 auto;
+	text-align: center;
+	width: 50%;
+}
+
+footer{
+	width: 50%;
+	margin:0 auto;
+	text-align: center;
+}
+
+hr{
+	width: 550px;
+	text-align: center;
+}
+
+section#wrapper{
+	width: 550px;
+	margin:25px auto 0px auto; 
+
+}
+section#wrapper>ul>li{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+section.home{
+	min-height:300px; 
+}
+
+p{
+	line-height: 1.7;
+	font:inherit; 
+}
+
+ul.list-unstyled>li>a{
+	display: block;
+}

@@ -1,0 +1,16 @@
+h5{
+	color: #aaa;
+}
+ul.list-unstyled>li{
+	border-bottom: 1px solid #ddd;
+}
+ul.list-unstyled>li>a{
+	color: black;
+}
+ul.list-unstyled>li>p{
+	color: #aaa;
+}
+ul.list-unstyled>li>a:hover{
+	text-decoration: none; 
+	color:#0099ff;
+}
